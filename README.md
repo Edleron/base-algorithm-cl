@@ -14,7 +14,7 @@ dotnet new console  => Init Dotnet console projects (Direk 'dotnet new console' 
 dotnet run          => Run projects
 
 Terminal -> cd  	|| dosya gezintisi.
-Terminal -> cd..  	|| bir üst dosyaya geri dönme
+Terminal -> cd ..  	|| bir üst dosyaya geri dönme (Windows ve Mac)
 ```
 
 ### Todo Roadmap List
